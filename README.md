@@ -2,7 +2,6 @@
 # Data Cleaning Project (Using SQL)
 
 
-
 #### 1. Remove Duplicates From Dataset.
 #### 2. Standardizing Of Data.
 #### 3. Handling Null Valuea And Blank Values.

@@ -7,9 +7,9 @@ Here’s why 80% of Data Science is just... cleaning.**
 
 
 
- - **🧩 Messy data = misleading insights
- - 📉 Inconsistent data = broken algorithms
- - 🤖 Even AI fails without clean input**
+  - 🧩 Messy data = misleading insights.
+  - 📉 Inconsistent data = broken algorithms.
+  - 🤖 Even AI fails without clean input.
 
 
 

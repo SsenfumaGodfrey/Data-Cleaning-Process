@@ -1,15 +1,15 @@
                         
 # Data Cleaning Project (Using SQL)
-**🧹 Dirty Data = Wrong Decisions,___
+**🧹 Dirty Data = Wrong Decisions.
 Here’s why 80% of Data Science is just... cleaning.**
-**Before the dashboards, before the models — your data has to make sense. 
-- Yet many skip the most crucial step: Data Cleaning & Preprocessing.**
+**Before the dashboards, before the models — your data has to make sense.** 
+- Yet many skip the most crucial step: Data Cleaning & Preprocessing.
 
 
 
-**🧩 Messy data = misleading insights___
-📉 Inconsistent data = broken algorithms___
-🤖 Even AI fails without clean input**
+ - **🧩 Messy data = misleading insights
+ - 📉 Inconsistent data = broken algorithms
+ - 🤖 Even AI fails without clean input**
 
 
 
